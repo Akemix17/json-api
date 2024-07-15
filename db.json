@@ -1,9 +1,60 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "cards" : [
+        {
+            "id": "1",
+            "titulo":"Peace Sign",
+            "categoria":"Acción",
+            "link":"https://www.youtube.com/embed/9aJVr5tTTWk?si=55UONI4DvV0XHqiM",
+            "imagen":"https://i.ytimg.com/vi/Q7w5IMyJ3pM/maxresdefault.jpg",
+            "descripcion":"Boku no hero academia OP2"
+        },
+        {
+            "id": "2",
+            "titulo":"Idol",
+            "categoria":"Historias de la vida",
+            "link":"https://www.youtube.com/embed/ZRtdQ81jPUQ?si=-jlc1j6ZObqsDJZb",
+            "imagen":"https://somoskudasai.com/wp-content/uploads/2023/02/oshinoko1.jpg",
+            "descripcion":"Oshi no ko OP1"
+        },
+        {
+            "id": "3",
+            "titulo":"Graduation",
+            "categoria":"Romance",
+            "link":"https://www.youtube.com/embed/L5rL0pBzmAE?si=pZ8MdqxCuDkIPP_9",
+            "imagen":"https://www.lavanguardia.com/peliculas-series/images/serie/backdrop/2023/4/w1280/4U5cJTbXBzW1WxDUZErqU3VNNWl.jpg",
+            "descripcion":"Yamada-kun to Lv999 no Koi wo Suru OP1"
+        },
+        {
+            "id": "4",
+            "titulo":"Mugen",
+            "categoria":"Acción",
+            "link":"https://www.youtube.com/embed/1a3b7ZpUcn4?si=LEa86QU7jcIGfEnI",
+            "imagen":"https://i.blogs.es/3f8ffe/kimetsu-no-yaiba/500_333.jpeg",
+            "descripcion":"Kimetsu no Yaiba OP5"
+        },
+        {
+            "id": "5",
+            "titulo":"Ao no sumika",
+            "categoria":"Acción",
+            "link":"https://www.youtube.com/embed/zuoVd2QNxJo?si=pR7VScw2-omR0oqG",
+            "imagen":"https://img.asmedia.epimg.net/resizer/v2/Q23HHDAZYZAOTHSKZYELCBNSSI.jpg?auth=8b7f61504f700408fd7d7193f16b5093f3e69c7189e20369e0e35b31be5df4fc&width=644&height=362&smart=true",
+            "descripcion":"Jujutsu Kaisen OP3"
+        },
+        {
+            "id": "6",
+            "titulo":"Nice to Neet you",
+            "categoria":"Comedia",
+            "link":"https://www.youtube.com/embed/Pex6-J_wxVI?si=jEDbkGyaJffG4M9Y",
+            "imagen":"https://somoskudasai.com/wp-content/uploads/2020/08/portada_osomatsu-san-3.jpg",
+            "descripcion":"Osomatsu san OP5"
+        },
+        {
+            "id": "7",
+            "titulo":"Masayume Chasing",
+            "categoria":"Magia",
+            "link":"https://www.youtube.com/embed/2Z5P3pMmXYQ?si=n1w4-RtUi-wNYnnP",
+            "imagen":"https://www.mundodeportivo.com/alfabeta/hero/2024/03/fairy-tail-100-years-quest-ya-tiene-fecha-de-estreno.jpg?width=1200&aspect_ratio=16:9",
+            "descripcion":"Fairy Tail OP15"
+        }
+    ]
 }
